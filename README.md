@@ -35,7 +35,9 @@ This Power BI project visualizes key performance metrics of a restaurant busines
 
 | Screenshot | Description            |
 |-----------|------------------------|
-| ![Page 1](./1.png) | Overview Dashboard |
+| ![Page 1](./project screenshots
+/1.png)
+) | Overview Dashboard |
 | ![Page 2](./2.png) | Restaurant-wise Analysis |
 | ![Page 3](./3.png) | Food Item Insights |
 | ![Page 4](./4.png) | Customer & Order Type Breakdown |
