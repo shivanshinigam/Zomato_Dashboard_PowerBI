@@ -33,16 +33,11 @@ This Power BI project visualizes key performance metrics of a restaurant busines
 
 ## 📷 Dashboard Snapshots
 
-| Screenshot | Description            |
-|-----------|------------------------|
-| ![Page 1](./project screenshots
-/1.png)
-) | Overview Dashboard |
-| ![Page 2](./2.png) | Restaurant-wise Analysis |
-| ![Page 3](./3.png) | Food Item Insights |
-| ![Page 4](./4.png) | Customer & Order Type Breakdown |
+<img width="1434" alt="1" src="https://github.com/user-attachments/assets/3c24100f-0010-4c42-a29b-6db438f7c132" />
+<img width="1427" alt="2" src="https://github.com/user-attachments/assets/6d715877-fe8c-4a5f-b0d2-4a3b04841172" />
+<img width="1426" alt="3" src="https://github.com/user-attachments/assets/c711418d-6f34-4401-8eba-f1d78d07da39" />
+<img width="1428" alt="4" src="https://github.com/user-attachments/assets/22e57cb5-2af9-4995-8ff4-84b40abf0146" />
 
-> Note: You may need to upload these images to your GitHub repository to make them visible.
 
 ## 📌 Insights Extracted
 - The top 3 restaurants contribute to over 60% of total revenue.
